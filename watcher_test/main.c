@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("This time it will work.");
+    printf("This is a new beginning!");
     return 0;
 }
