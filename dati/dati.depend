@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1394713618 source:h:\documents\myteaching\info14\eserciziaula\dati\main.c
+	<stdio.h>
+	<stdlib.h>
+
